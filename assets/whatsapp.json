@@ -1,0 +1,57 @@
+{
+    "data_type": "map",
+    "data": {
+        "data_type": "list",
+        "data": [
+            {
+                "data_type": "image_path",
+                "data": "assets/image.png"
+            },
+            {
+                "data_type": "input"
+            },
+            {
+                "data_type": "paragraph",
+                "data": [
+                    {
+                        "data_type": "heading",
+                        "data": "♦ Benefits ♦"
+                    },
+                    {
+                        "data_type": "body_text_1",
+                        "data": "☉ Open the WhatsApp chat window without saving the number.\n☉ बिना नंबर सेव किए किसी नंबर के लिए WhatsApp Chat खोलें|"
+                    },
+                    {
+                        "data_type": "heading",
+                        "data": "♦ Why ? ♦"
+                    },
+                    {
+                        "data_type": "body_text_1",
+                        "data": "☉ Sending WhatsApp messages without saving the number has following advantages:\n☉ बिना नंबर सेव किए WhatsApp messages भेजने के निम्नलिखित फायदे हैं:"
+                    },
+                    {
+                        "data_type": "list",
+                        "data": [
+                            {
+                                "data_type": "body_text_2",
+                                "data":"Start a chat from WhatsApp Web, without needing the phone to save the contact"
+                            },
+                            {
+                                "data_type": "body_text_2",
+                                "data":"Contacts list are only the one who we want to save"
+                            },
+                            {
+                                "data_type": "body_text_2",
+                                "data":"Saves time to message, share files and location whenever required"
+                            },
+                            {
+                                "data_type": "body_text_2",
+                                "data":"Your profile picture, and status if made private will not be visible to any unsaved numbers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
