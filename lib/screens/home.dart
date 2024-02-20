@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Center(
             child: SingleChildScrollView(
               child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.start,
                 children: [
                   // Image file
                   const SizedBox(
